@@ -11,6 +11,6 @@ I suspect quite a few people here (though I can’t see the comments (perhaps I 
 - Evening: Lug a backpack containing a laptop back home
 - Night: Do a bit more work, then go to bed once night falls
 
-It’s a cycle that can be truly exhausting, yet it serves as our primary source of income—something we have to endure if we want to earn a living
+It’s a cycle that can be truly exhausting, yet it serves as our primary source of income, something we have to endure if we want to earn a living
 
 Life really isn’t as rosy as we imagine, is it?
