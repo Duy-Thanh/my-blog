@@ -10,7 +10,9 @@ I know we may have met before, but please accept my sincere apologies for consta
 
 For those wondering why I keep having to move house, it’s just an issue with my server provider. Alright then, now that there’s a new home, let’s stay cheerful and keep on enjoying blogging and coding!
 
-And welcome to Nekkochan's Notes! I like to think of this space as my "garage". Here, you’ll find everything from personal musings and occasional rants to in-depth tutorials and long-form series centered around my various projects.
+And welcome to Nekkochan's Notes! I like to think of this space as my "garage". Here, you’ll find everything from personal musings and occasional rants to in-depth tutorials and long-form series centered around my various projects
+
+By the way, this blog will be written in English, as I’d like to improve my English proficiency. If you’d prefer to read it in another language, you can use the Google Translate feature built into Google Chrome, or any other browser extension you might be familiar with for translating web pages
 
 This is my inaugural post. I hope you’ll follow along with "the little musings of a lonely guy who just happens to love writing code"!
 
