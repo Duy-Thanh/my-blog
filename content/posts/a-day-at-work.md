@@ -1,7 +1,7 @@
 +++
 date = '2026-10-15T18:22:09+07:00'
 draft = false
-title = 'A Day at Work'
+title = 'A day at work'
 +++
 
 I suspect quite a few people here (though I can’t see the comments (perhaps I should add that feature!) find themselves stuck in a recurring cycle, month after month:
