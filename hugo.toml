@@ -10,7 +10,7 @@ theme = 'PaperMod'
   ShowCodeCopyButtons = true             # Hiện nút Copy góc phải ở mọi code block
 
 [params.homeInfoParams]
-  Title = "Welcome to my little corner! Have a wonderful day and enjoy your reading!"
+  Title = "Welcome to my little corner!"
   Content = "Here, you’ll find everything from personal musings and occasional rants to in-depth tutorials and long-form series centered around my various projects"
 
 # [[params.socialIcons]]
