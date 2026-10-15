@@ -1,3 +1,18 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseURL = 'https://nek0c7.pages.dev/'   # Hoặc domain cá nhân của mày nếu có
+languageCode = 'en-us'
+title = "Nekkochan's Notes"
+theme = 'PaperMod'
+
+[params]
+  author = "nek0c7"
+  description = "The little things in the life of a lonely man who loves to write code"
+  defaultTheme = "dark"                   # Mặc định bật Dark Mode bao ngầu
+  ShowCodeCopyButtons = true             # Hiện nút Copy góc phải ở mọi code block
+
+[params.homeInfoParams]
+  Title = "Welcome to my little corner! Have a wonderful day and enjoy your reading!"
+  Content = "Here, you’ll find everything from personal musings and occasional rants to in-depth tutorials and long-form series centered around my various projects"
+
+# [[params.socialIcons]]
+#   name = "github"
+#   url = "https://github.com/Duy-Thanh"      # Đổi thành link GitHub xịn của mày
