@@ -4,6 +4,8 @@ draft = false
 title = 'Welcome to my little corner!'
 +++
 
+*Written in 2026-10-15 at 17:30:03*
+
 Yeah, hello it’s me again...
 
 *I know we may have met before, but please accept my sincere apologies for constantly changing my blog address! I promise this will be the last time*

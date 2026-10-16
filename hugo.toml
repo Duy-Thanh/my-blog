@@ -1,6 +1,6 @@
 baseURL = 'https://nek0c7.pages.dev/'   # Hoặc domain cá nhân của mày nếu có
 languageCode = 'en-us'
-title = "Nekkochan's Notes"
+title = "nek0c7's Notes"
 theme = 'PaperMod'
 
 [params]

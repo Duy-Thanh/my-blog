@@ -4,6 +4,8 @@ draft = false
 title = 'A day at work'
 +++
 
+*Written in 2026-10-15 18:22:09*
+
 I suspect quite a few people here (though I can’t see the comments, perhaps I should add that feature!) find themselves stuck in a recurring cycle, month after month:
 
 - Morning: Wake up, turn off the alarm, have a quick, light meal, and head out the door for work
