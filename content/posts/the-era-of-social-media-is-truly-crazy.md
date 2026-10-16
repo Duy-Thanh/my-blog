@@ -39,6 +39,8 @@ In this era of social media, I find the landscape to be a chaotic mix, riddled w
 7. The algorithm detects high levels of engagement on the post
 8. The algorithm then prioritizes the post, pushing it out to an even wider audience
 
+These are the very business models that social media platforms use to keep users hooked! They know it’s harmful, yet they continue to do it simply because the profits are just too massive
+
 Just hearing about it is exhausting. This has bothered me for a long time, ever since I was still using Meta’s Facebook, and today, I’m finally voicing these thoughts
 
 Of course, walking away from the social platforms used by those around you is difficult, just look at LINE in Japan, KakaoTalk in South Korea, or WeChat in China. When everyone in your social circle and the society you live in uses a particular platform or ecosystem, detaching yourself from it can feel like self-imposed isolation
