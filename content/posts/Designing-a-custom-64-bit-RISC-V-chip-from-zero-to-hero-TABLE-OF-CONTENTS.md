@@ -2,7 +2,7 @@
 date = '2026-10-16T17:49:34+07:00'
 draft = false
 title = 'Designing a custom 64-bit RISC-V chip from zero to hero: TABLE OF CONTENTS'
-tags = ["series", "long-series", "project", "big-project", "long-term-project", "riscv", "chipset", "systemverilog", "semiconductor", "rtl"]
+tags = ["series", "long-series", "project", "big-project", "long-term-project", "riscv", "chipset", "systemverilog", "semiconductor", "rtl", "riscv64"]
 description = 'From zero to hero: Design your own chip!'
 +++
 
