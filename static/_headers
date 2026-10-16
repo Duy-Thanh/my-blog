@@ -1,0 +1,3 @@
+# Chặn bot index domain phụ .pages.dev
+https://:nek0c7.pages.dev/*
+  X-Robots-Tag: noindex, nofollow

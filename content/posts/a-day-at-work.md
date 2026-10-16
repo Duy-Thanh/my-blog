@@ -2,6 +2,8 @@
 date = '2026-10-15T18:22:09+07:00'
 draft = false
 title = 'A day at work'
+description = 'A productive workday'
+tags = ["stuff", "life"]
 +++
 
 *Written in 2026-10-15 18:22:09*

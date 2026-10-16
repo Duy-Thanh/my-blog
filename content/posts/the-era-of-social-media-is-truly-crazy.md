@@ -2,6 +2,8 @@
 date = '2026-10-16T08:45:42+07:00'
 draft = false
 title = 'The era of social media is truly crazy'
+tags = ["stuff", "life"]
+description = 'The era of spending time at work and scrolling through social media'
 +++
 
 *Written in 2026-10-16 08:45:42*

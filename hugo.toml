@@ -3,9 +3,20 @@ languageCode = 'en-us'
 title = "nek0c7's Notes"
 theme = 'PaperMod'
 
+[sitemap]
+  changefreq = 'weekly'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
 [params]
+  env = 'production'
   author = "nek0c7"
   description = "The little things in the life of a lonely man who loves to write code"
+  keywords = ["blog", "tech", "linux", "programming"]
+  # Canonical & SEO
+  ShowFullTextInRSS = false
+  enableRobotsTXT = true     # Tự động tạo file robots.txt khi build
+  ShowBreadCrumbs = true     # Hiện Breadcrumb (Google rất thích cái này)
   defaultTheme = "dark"                   # Mặc định bật Dark Mode bao ngầu
   ShowCodeCopyButtons = true             # Hiện nút Copy góc phải ở mọi code block
 
