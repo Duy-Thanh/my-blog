@@ -26,4 +26,4 @@ Enjoy reading and crafting your very own chip!
 
 [Designing a custom 64-bit RISC-V chip from zero to hero: TABLE OF CONTENTS](https://nek0c7.pages.dev/posts/Designing-a-custom-64-bit-RISC-V-chip-from-zero-to-hero-TABLE-OF-CONTENTS)
 
-*Designing a custom 64-bit RISC-V chip from zero to hero: PREFACE* **(Comming Soon!)
+*Designing a custom 64-bit RISC-V chip from zero to hero: PREFACE* **(Comming Soon!)**
