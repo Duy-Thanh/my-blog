@@ -39,7 +39,7 @@ In this era of social media, I find the landscape to be a chaotic mix, riddled w
 7. The algorithm detects high levels of engagement on the post
 8. The algorithm then prioritizes the post, pushing it out to an even wider audience
 
-These are the very business models that social media platforms use to keep users hooked! They know it’s harmful, yet they continue to do it simply because the profits are just too massive
+These are the very business models that social media platforms use to keep users hooked! They know it’s harmful, yet they continue to do it, simply because the profits are just too massive
 
 Just hearing about it is exhausting. This has bothered me for a long time, ever since I was still using Meta’s Facebook, and today, I’m finally voicing these thoughts
 
