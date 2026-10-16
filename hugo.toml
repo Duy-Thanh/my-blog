@@ -10,6 +10,7 @@ theme = 'PaperMod'
 
 [params]
   env = 'production'
+  googleSiteVerification = "eKXmdrJSa6E5uaHn7aMsFHw64Qkg2pnp1ATirc7eCgQ"
   author = "nek0c7"
   description = "The little things in the life of a lonely man who loves to write code"
   keywords = ["blog", "tech", "linux", "programming"]
