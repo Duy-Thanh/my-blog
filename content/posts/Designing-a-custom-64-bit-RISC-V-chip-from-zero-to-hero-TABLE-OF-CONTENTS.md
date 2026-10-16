@@ -8,7 +8,7 @@ description = 'From zero to hero: Design your own chip!'
 
 *Written in 2026-10-16 17:49:34*
 
-***This page will be continuously updated to accurately reflect the articles that will be published as part of this series; please bookmark this page for future reference and convenient reading!***
+***This page will be continuously updated to accurately reflect the articles that will be published as part of this series. Please bookmark this page for future reference and convenient reading!***
 
 Alright, here is our first major project! One that we’ll build from the ground up, literally learning as we go!
 
