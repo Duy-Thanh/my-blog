@@ -14,7 +14,7 @@ This series is entirely my own work and is not affiliated with any other organiz
 
 Any other website that claims or attempts to falsely claim that this entire series is their own work is spreading fake news
 
-I created this series based on the principle of learning by doing; in fact, as I work on this series, I am simultaneously learning, practicing, and producing the content itself
+I created this series based on the principle of learning by doing, in fact, as I work on this series, I am simultaneously learning, practicing, and producing the content itself
 
 # CREDITS
 
