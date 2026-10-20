@@ -30,7 +30,7 @@ This series and my journey could not have been completed without the following e
 
 In the next chapter, we will set up our development environment. You will need a device running **Debian Linux** (you could even use an Android phone with an unlocked bootloader and Debian Linux installed)
 
-**Get the system ready! It’s going to be a long journey!
+**Get the system ready! It’s going to be a long journey!**
 
 
 *You can consult the table of contents: [here](https://nek0c7.pages.dev/posts/designing-a-custom-64-bit-risc-v-chip-from-zero-to-hero-table-of-contents)*
