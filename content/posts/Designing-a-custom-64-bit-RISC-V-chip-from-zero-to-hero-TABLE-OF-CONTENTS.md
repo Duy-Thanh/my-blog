@@ -20,7 +20,7 @@ Enjoy reading and crafting your very own chip!
 
 
 
-**TABLE OF CONTENTS**
+# TABLE OF CONTENTS
 
 ***Note: Pages that have not yet been written will appear in italics, while pages scheduled for upcoming publication will be both italicized and marked with the suffix "(Coming Soon)"***
 
