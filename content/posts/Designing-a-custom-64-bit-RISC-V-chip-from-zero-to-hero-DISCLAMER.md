@@ -6,7 +6,7 @@ tags = ["series", "long-series", "project", "big-project", "long-term-project", 
 description = 'From zero to hero: Design your own chip!'
 +++
 
-Written in 2026-10-20 17:30:55*
+*Written in 2026-10-20 17:30:55*
 
 # DISCLAIMER
 
