@@ -25,5 +25,6 @@ Enjoy reading and crafting your very own chip!
 ***Note: Pages that have not yet been written will appear in italics, while pages scheduled for upcoming publication will be both italicized and marked with the suffix "(Coming Soon)"***
 
 [Designing a custom 64-bit RISC-V chip from zero to hero: TABLE OF CONTENTS](https://nek0c7.pages.dev/posts/designing-a-custom-64-bit-risc-v-chip-from-zero-to-hero-table-of-contents)
+[Designing a custom 64-bit RISC-V chip from zero to hero: DISCLAIMER AND CREDITS](https://nek0c7.pages.dev/posts/designing-a-custom-64-bit-risc-v-chip-from-zero-to-hero-disclamer)
 
 *Designing a custom 64-bit RISC-V chip from zero to hero: PREFACE* **(Coming Soon!)**
