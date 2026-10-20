@@ -28,7 +28,7 @@ This series and my journey could not have been completed without the following e
 
 **4: Stuart Sutherland, Simon Davidmann, Peter Flake, Phil Moorby, *"SystemVerilog For Design (Second Edition): A Guide to Using SystemVerilog for Hardware Design and Modeling"*, Library of Congress Control Number: 2006928944, e-ISBN-10: 0-387-36495-1, e-ISBN-13: 9780387364957, © 2006 Springer Science+Business Media, LLC**
 
-In the next chapter, we will set up our development environment. You will need a device running **Debian Linux** (you could even use an Android phone with an unlocked bootloader and Debian Linux installed)
+Next, we will move on to the first chapter: **Preface**. After that, we will set up our development environment. You will need a device running **Debian Linux** (you could even use an Android phone with an unlocked bootloader and Debian Linux installed)
 
 **Get the system ready! It’s going to be a long journey!**
 
